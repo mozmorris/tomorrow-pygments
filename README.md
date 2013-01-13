@@ -1,6 +1,6 @@
-# Python Pygments - Tomorrow Theme Styles
+# Pygments - Tomorrow Theme Styles
 
-Pygments style classes for the popular [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)
+Pygments style classes for the popular [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme).
 
 
 ## Installation
